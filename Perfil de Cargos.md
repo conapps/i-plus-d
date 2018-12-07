@@ -53,16 +53,21 @@ También se podrá utilizar esta etapa de evaluación para revisar este document
 | React-Router               | ⭐⭐⭐     |
 | Fetch                      | ⭐⭐⭐⭐   |
 | jQuery                     | ⭐⭐⭐     |
+| **SQL**                    |            | ⭐⭐⭐⭐⭐ |             |
+| MySQL                      |            | ⭐⭐⭐    |             |
+| PostgreSQL                 |            | ⭐⭐⭐
 | **MySQL**                  |            | ⭐⭐⭐     |
 | **NGINX**                  |            | ⭐⭐⭐⭐   |
 | **NodeJS**                 | ⭐⭐⭐     | ⭐⭐⭐⭐   |
 | Jest                       | ⭐⭐⭐     | ⭐⭐⭐     |
 | ExpressJS                  |            | ⭐⭐⭐     |
 | Lodash                     | ⭐⭐⭐     | ⭐⭐⭐     |
-| Passport                   |            | ⭐⭐⭐⭐   |
 | NodeMailer                 |            | ⭐⭐       |
 | **PWA**                    | ⭐⭐⭐⭐   |
 | **Python**                 |            | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Flask                      |            | ⭐⭐⭐⭐⭐ |             |
+| SQLAlchemy                 |            | ⭐⭐⭐⭐   |             |
+| Requests                   |            | ⭐⭐⭐⭐   |             |
 | **R&S**                    |            |            | ⭐⭐⭐     |
 | **Redis**                  |            | ⭐⭐⭐     |
 | **Ubuntu**                 | ⭐⭐       | ⭐⭐⭐     | ⭐⭐⭐⭐⭐ |
