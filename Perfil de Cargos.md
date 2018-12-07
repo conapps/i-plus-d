@@ -16,7 +16,8 @@ También se podrá utilizar esta etapa de evaluación para revisar este document
 
 | Skills                     | FrontEnd   | Backend    | DevOps     |
 | -------------------------- | ---------- | ---------- | ---------- |
-| **Ansible**                |            |            | ⭐⭐⭐⭐   |
+| **Ansible**                |            | ⭐⭐⭐     | ⭐⭐⭐⭐⭐   |
+| Ansible Tower              | ⭐         | ⭐⭐       | ⭐⭐⭐⭐ |
 | **AWS**                    | ⭐⭐⭐     | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 | API Gateway                | ⭐         | ⭐⭐⭐⭐   | ⭐⭐⭐     |
 | AWS Lambda                 | ⭐         |            | ⭐⭐⭐⭐   |
@@ -40,6 +41,8 @@ También se podrá utilizar esta etapa de evaluación para revisar este document
 | CSS-Grid                   | ⭐⭐⭐⭐   |
 | Animate API                | ⭐⭐⭐     |
 | **Docker**                 | ⭐⭐⭐     | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
+| Openshift                  | ⭐          | ⭐⭐       | ⭐⭐⭐⭐⭐ |
+| **Keycloak**               | ⭐⭐        | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐ |
 | **Git**                    | ⭐⭐⭐⭐   | ⭐⭐⭐⭐   | ⭐⭐⭐⭐   |
 | **HTML**                   | ⭐⭐⭐⭐⭐ |
 | **JavaScript**             | ⭐⭐⭐⭐⭐ |
@@ -47,12 +50,10 @@ También se podrá utilizar esta etapa de evaluación para revisar este document
 | Redux                      | ⭐⭐⭐⭐   |
 | RxJS                       | ⭐⭐⭐     |
 | Redux-Observables          | ⭐⭐⭐     |
-| Nivo                       | ⭐⭐       |
 | Lodash                     | ⭐⭐⭐⭐   |
 | Normalizr                  | ⭐⭐       |
 | React-Router               | ⭐⭐⭐     |
 | Fetch                      | ⭐⭐⭐⭐   |
-| jQuery                     | ⭐⭐⭐     |
 | **SQL**                    |            | ⭐⭐⭐⭐⭐ |             |
 | MySQL                      |            | ⭐⭐⭐    |             |
 | PostgreSQL                 |            | ⭐⭐⭐
@@ -70,5 +71,6 @@ También se podrá utilizar esta etapa de evaluación para revisar este document
 | Requests                   |            | ⭐⭐⭐⭐   |             |
 | **R&S**                    |            |            | ⭐⭐⭐     |
 | **Redis**                  |            | ⭐⭐⭐     |
-| **Ubuntu**                 | ⭐⭐       | ⭐⭐⭐     | ⭐⭐⭐⭐⭐ |
+| **Linux**                  |            | ⭐⭐⭐⭐⭐ |             |
+| Ubuntu                     | ⭐⭐       | ⭐⭐⭐     | ⭐⭐⭐⭐⭐ |
 | **Webpack**                | ⭐⭐⭐     |
